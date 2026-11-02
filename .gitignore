@@ -47,6 +47,7 @@ dist/
 *.tmp
 *.bak
 
-test_db.py
+vector_db/
+
 
 
