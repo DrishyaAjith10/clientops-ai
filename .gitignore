@@ -49,5 +49,6 @@ dist/
 
 vector_db/
 
-
+.env.docker
+clientops_backup.dump
 
